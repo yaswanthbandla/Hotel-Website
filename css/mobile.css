@@ -1,0 +1,51 @@
+#navbar h1{
+  float: none;
+  text-align: center;
+}
+#navbar ul,
+ #navbar ul li{
+  float: none;
+}
+#navbar ul li a{
+  text-align: center;
+  padding: 5px;
+  border: 1px dotted #444;
+}
+#home-info .info-img{
+  display: none;
+}
+#home-info .info-content{
+  float: none;
+  width: 100%;
+}
+.box{
+  float: none;
+  width: 100%;
+  text-align: center;
+  padding: 30px;
+}
+#about-info .info-right img{
+  display: none;
+}
+#about-info .info-left{
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+#review-1,
+#review-2{
+  height: 160px;
+}
+#review-1 p,
+#review-2 p{
+  float: right;
+  width: 70%;
+  overflow: hidden;
+  margin:auto;
+}
+#reviews{
+  height:440px ;
+}
+#navbar-2 .box{
+  border: 1px dotted #444;
+}
